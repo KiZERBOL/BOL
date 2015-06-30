@@ -6,7 +6,7 @@ if myHero.charName ~= "Ryze" then return end
 
 _G.AUTOUPDATE = true -- Change to "false" to disable auto updates!
 
-local version = "0.01"
+local version = "0.01a"
 local author = "KiZER"
 local UPDATE_HOST = "raw.github.com"
 local UPDATE_PATH = "/KiZERBOL/BOL/Ryze - Filled with Magic.lua".."?rand="..math.random(1,10000)
